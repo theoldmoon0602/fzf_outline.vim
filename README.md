@@ -27,5 +27,7 @@ let g:fzf_outline_kinds=["c","s","f","g"]  "default value
 ## Usage
 `:Outline` command shows outline if tags file exists.
 
+![](https://raw.githubusercontent.com/theoldmoon0602/fzf_outline.vim/screenshot/screenshot.png)
+
 ## LICENSE
 MIT
