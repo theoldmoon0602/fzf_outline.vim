@@ -13,14 +13,15 @@ You can install this plugin with your package manager.
 
 To install with [vim-plug](https://github.com/junegunn/vim-plug), add the following lines to your `.vimrc` and do `:PlugInstall`.
 
-```
+```vim
 Plug 'theoldmoon0602/fzf_outline.vim'
 ```
 
 ## Configuration
 
 The variable `g:fzf_outline_kinds` is list of shown kinds.
-```
+
+```vim
 let g:fzf_outline_kinds=["c","s","f","g"]  "default value
 ```
 
